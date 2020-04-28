@@ -2,4 +2,7 @@
 Telegram Messenger network ip list
 
 # todo
-- Automatically sync Telegram ip list when someone starred.
+- [x]  Automatically sync Telegram ip list when someone starred.
+
+# iplist
+[more detail](https://github.com/qcgzxw/iplist)
